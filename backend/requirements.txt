@@ -1,5 +1,5 @@
 flask==3.0.0
 youtube-transcript-api==0.6.1
 transformers==4.36.0
-torch==2.1.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.2.0
 pytube==15.0.0
